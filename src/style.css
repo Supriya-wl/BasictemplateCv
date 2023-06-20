@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: navy;
+    text-align: center;
+    color:white;
+}
+.navbar .menu a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+
+}
+.about h1{
+    text-align: center;
+}
+.about img{
+    margin-left: 0;
+}
+.about  p{
+    text-align: left;
+}

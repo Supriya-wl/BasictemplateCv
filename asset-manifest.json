@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BasictemplateCv/static/css/main.2d912176.css",
+    "main.js": "/BasictemplateCv/static/js/main.089813bc.js",
+    "static/js/787.4305ce95.chunk.js": "/BasictemplateCv/static/js/787.4305ce95.chunk.js",
+    "static/media/supriya_img.png": "/BasictemplateCv/static/media/supriya_img.87e7ec40cf08f70dc97c.png",
+    "static/media/logo.svg": "/BasictemplateCv/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BasictemplateCv/index.html",
+    "main.2d912176.css.map": "/BasictemplateCv/static/css/main.2d912176.css.map",
+    "main.089813bc.js.map": "/BasictemplateCv/static/js/main.089813bc.js.map",
+    "787.4305ce95.chunk.js.map": "/BasictemplateCv/static/js/787.4305ce95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d912176.css",
+    "static/js/main.089813bc.js"
+  ]
+}
